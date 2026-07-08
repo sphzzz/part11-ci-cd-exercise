@@ -10,6 +10,8 @@ module.exports = [
       'eslint.config.js',
       '.eslintrc.js',
       'babel.config.js',
+      'playwright.config.js',
+      'e2e-tests/**',
       'node_modules/**',
       'dist/**'
     ]
